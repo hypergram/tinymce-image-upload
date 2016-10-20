@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "http://gitlab.p53.uk/web/tinymce-image-upload.git"
+    "url": "https://github.com/hypergram/tinymce-image-upload.git"
   }
 }
